@@ -21,6 +21,7 @@ Dealers who may help
  - <b>Error 44<b> Option 1 <a href="https://www.broersamersfoort.nl/">Broers</a> Fietsreperateurs, Amersfoort, has a in-place replacement for the eshifter
  - <b>Error 44<b> Option 2 <a href="https://iservice-utrecht.nl/">iService</a> learnt by DIY how to fix the eShifter and could do it for you.
  - <b>Error 45<b> <a href="https://greenbikes.nl/">Green Bikes</a>, Haarlem, NL has  VanMoof techie which can repair cable problem, but they are waiting for spares (Aug-2023) arriving end of Sep-2023
+ - <a href="https://revotronics.de/en/">Revotronics</a>, VanMoof specialized repair company based in Germany
 
 # eShifter
 Schema of the Van Moof S3 eshifter (click to enlarge)<br>
